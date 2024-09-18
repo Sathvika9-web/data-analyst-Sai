@@ -35,6 +35,8 @@ Further, the distribution type of the research investigated the nature of studen
    
 •	Pie Chart: An example of how the data was presented is a pie chart that depicted the distribution of responsibilities of the various stakeholders of PLAR assessments. That was useful to emphasize for whom this workload is intended and how much each participant is engaged in the process. 
 
+![Pie Chart](https://github.com/Sathvika9-web/data-analyst-Sai/blob/main/Pie%20Chart.jpeg)
+
 •	Bar Chart: A bar chart was then developed to illustrate the variety of evidence submitted for PLAR, which may include portfolios, exams, and certificates, amongst others. 
 
 4.	Stakeholder Segmentation: Based on the PLAR process, the roles of the stakeholders were categorized as follows: Students, Registrar's Office, Chairs of Academic Departments, Reviewers and Admissions Appeals Committee. Each segment's roles were broken down to identify their individual roles and responsibilities. For example, in the Learning Outcomes Assessment Plan, students are tasked with constructing an array of the Learning Outcomes Portfolio. At the same time, the Department Chair(s) and Reviewers are primarily concerned with assessing the presented documentation. It also helped identify the general flow and specific areas where there could be possible enhancements in the administration of the tasks.
